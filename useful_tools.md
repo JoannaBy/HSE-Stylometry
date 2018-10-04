@@ -10,4 +10,3 @@
 ### Regular expressions aka regex
 * [Get regex skills doing crosswords!](https://regexcrossword.com/) - by far the coolest way to learn regex.  
 * [Regex sandbox](https://regex101.com/) - this is where you can test your regex.  
-* You can also join tomorrow's classes "Regular Expressions in 60 Minutes" in MacLaurin D107 [more info](https://docs.google.com/document/d/1fZzti2j-_zAbaGnepYBDgYPLqADp1dYmqo1fFJ5CCrU/edit)
