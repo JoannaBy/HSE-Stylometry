@@ -3,6 +3,7 @@ Materials and notes for Stylometry with R tutorial at 3rd Moscow-Tartu Summer Sc
   
 ## Installing software
 [Instructions](https://github.com/JoannaBy/HSE-Stylometry/blob/master/get_started.md)
+[Other useful tools (not needed now)](https://github.com/JoannaBy/HSE-Stylometry/blob/master/useful_tools.md)
   
 ## Daily notes
 [Day One - Stylometry for Exploration of Literature](https://github.com/JoannaBy/HSE-Stylometry/blob/master/day_one.md)
