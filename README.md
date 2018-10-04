@@ -2,11 +2,11 @@
 Materials and notes for Stylometry with R tutorial at 3rd Moscow-Tartu Summer School at HSE.
   
 ## Installing software
-[Instructions](https://github.com/JoannaBy/HSE-Stylometry/blob/master/get_started.md)
+[Instructions](https://github.com/JoannaBy/HSE-Stylometry/blob/master/get_started.md)  
 [Other useful tools (not needed now)](https://github.com/JoannaBy/HSE-Stylometry/blob/master/useful_tools.md)
   
 ## Daily notes
-[Day One - Stylometry for Exploration of Literature](https://github.com/JoannaBy/HSE-Stylometry/blob/master/day_one.md)
+[Day One - Stylometry for Exploration of Literature](https://github.com/JoannaBy/HSE-Stylometry/blob/master/day_one.md)  
 [Day Two - Stylometry in Authorship Attribution](https://github.com/JoannaBy/HSE-Stylometry/blob/master/day_two.md)
   
 ## Useful links
@@ -20,4 +20,4 @@ Easy intro *[Stylo in a nutshell](https://computationalstylistics.github.io/styl
 * full documentation at [CRAN](https://cran.r-project.org/web/packages/stylo/stylo.pdf)  
   
 [Professor John Burrows talking about stylometry all over the world.](https://youtu.be/0QpJFAjdKz8)  
-[HUGE stylometry bibliography curated by Christof Schöch](https://www.zotero.org/groups/643516/stylometry_bibliography)
+[HUGE stylometry bibliography curated by Christof Schöch](https://www.zotero.org/groups/643516/stylometry_bibliography)  
