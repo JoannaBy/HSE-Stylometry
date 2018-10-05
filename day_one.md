@@ -12,7 +12,8 @@ You can choose either of the corpora we looked at or come up with your own.
 * [100 English Novels](https://github.com/computationalstylistics/100_english_novels)
 * [68 German Novels](https://github.com/computationalstylistics/68_german_novels)
 
-Look at *[Stylo in a nutshell](https://computationalstylistics.github.io/stylo_nutshell/)* 11-25 slides.  
+Look at *[Stylo in a nutshell](https://computationalstylistics.github.io/stylo_nutshell/)* 11-25 slides for help.  
+Try to go through the following [exercises](https://github.com/JoannaBy/HSE-Stylometry/blob/master/Exercises1.md)
   
 And if you want more, documentation of the package ‘stylo’:
 * for (sort of) beginners: a concise [HOWTO](https://sites.google.com/site/computationalstylistics/stylo/stylo_howto.pdf)
