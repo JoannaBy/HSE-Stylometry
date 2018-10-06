@@ -20,10 +20,10 @@ You can modify it by putting parameters in the brackets, e.g.:
   rolling.classify(corpus.lang="Other")
 
 ### Now try another classification method, e.g. SVM (Support Vector Machine):  
-  rolling.classify(corpus.lang="Other", classification.method="SVM")  
+  rolling.classify(corpus.lang="Other", classification.method="svm")  
   
 ### Surely, you want a picture?  
-  rolling.classify(corpus.lang="Other", classification.method="SVM", write.png.file="TRUE")  
+  rolling.classify(corpus.lang="Other", classification.method="svm", write.png.file="TRUE")  
   
 ## More options
 You can find more options at p. 58 of the [documentation](https://cran.r-project.org/web/packages/stylo/stylo.pdf) and easy detailed explanations in [HOWTO](https://sites.google.com/site/computationalstylistics/stylo/stylo_howto.pdf).  
