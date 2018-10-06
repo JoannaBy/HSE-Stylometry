@@ -20,4 +20,7 @@ Easy intro *[Stylo in a nutshell](https://computationalstylistics.github.io/styl
 * full documentation at [CRAN](https://cran.r-project.org/web/packages/stylo/stylo.pdf)  
   
 [Professor John Burrows talking about stylometry all over the world.](https://youtu.be/0QpJFAjdKz8)  
+
+### Useful reading
+[List here](https://github.com/JoannaBy/HSE-Stylometry/blob/master/useful_reading.md)
 [HUGE stylometry bibliography curated by Christof Schöch](https://www.zotero.org/groups/643516/stylometry_bibliography)  
