@@ -7,7 +7,7 @@ Materials and notes for Stylometry with R tutorial at 3rd Moscow-Tartu Summer Sc
   
 ## Daily notes
 [Day One - Stylometry for Exploration of Literature](https://github.com/JoannaBy/HSE-Stylometry/blob/master/day_one.md)  
-[Day Two - Stylometry in Authorship Attribution](https://github.com/JoannaBy/HSE-Stylometry/blob/master/day_two)
+[Day Two - Stylometry in Authorship Attribution](https://github.com/JoannaBy/HSE-Stylometry/blob/master/day_two.md)
   
 ## Useful links
 [Website of Computational Stylistics Group](https://computationalstylistics.github.io/)  
